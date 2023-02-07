@@ -5,6 +5,7 @@ Bohemian Pulp was founded by **Djordje** and **Jasmina Markovic** as their passi
 Currently, there are five key people in Bohemian Pulp, and a few more contributing on the side. Most of them are working as passionate contributors, contractors, or part-time.
 
 ### Core team:
+* Dean Thomson - Technical Programmer, DevOps and Audio Engineering.
 * Oskar Kogut - Programming
 * Sava Botic - OST, VFX
 * Aleksej Krpan - Writing
@@ -13,7 +14,7 @@ Currently, there are five key people in Bohemian Pulp, and a few more contributi
 #### Voice-Over (so far):
 * Brent Schraff- Cooper and Narrator
 * Djurdjina Radic, Djixx- Cooper's Gun
-* Additional help:
+#### Additional help:
 * Ranko Trifkovic - Narrative Consulting, Additional Writing
 * Mladen Levnaic - Narrative Consulting
 * Dusko Knezevic - Additional Writing
